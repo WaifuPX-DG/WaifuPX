@@ -17,4 +17,4 @@ La aplicación utiliza servicios de terceros que pueden recopilar información u
 
 Enlace a la política de privacidad de los proveedores de servicios externos utilizados por la aplicación
 
-*[Servicios de Google Play](https://www.google.com/policies/privacy/)
+* [Servicios de Google Play](https://www.google.com/policies/privacy/)
