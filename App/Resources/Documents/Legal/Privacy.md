@@ -53,3 +53,6 @@ Estos Servicios no se dirigen a nadie menor de 13 años. No recopilo a sabiendas
 
 Puedo actualizar nuestra Política de privacidad de vez en cuando. Por lo tanto, le recomendamos que revise esta página periódicamente para ver si hay cambios. Le notificaré cualquier cambio publicando la nueva Política de privacidad en esta página. Estos cambios entran en vigencia inmediatamente después de su publicación en esta página.
 
+**Contáctenos**
+
+Si tiene alguna pregunta o sugerencia sobre mi Política de privacidad, no dude en ponerse en contacto conmigo en waifupx.dg@gmail.com.
