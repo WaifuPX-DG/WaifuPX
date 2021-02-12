@@ -1,3 +1,4 @@
 **Personas que contribuyeron al desarrollo de WaifuPX**
-* [Servicios de Google Play](https://www.google.com/policies/privacy/)
+* [Daisuki Kurosawa Chan](https://www.facebook.com/daisuki.chan.357)
+Beta Tester
 
