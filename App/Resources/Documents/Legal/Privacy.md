@@ -8,6 +8,7 @@ Si opta por utilizar mi Servicio, entonces acepta la recopilación y el uso de i
 
 Los términos utilizados en esta Política de privacidad tienen el mismo significado que en nuestros Términos y condiciones, a los que se puede acceder en WaifuPX a menos que se defina lo contrario en esta Política de privacidad.
 
+
 ** Recopilación y uso de información **
 
 Para una mejor experiencia, al utilizar nuestro Servicio, es posible que le solicite que nos proporcione cierta información de identificación personal. La información que solicito se conservará en su dispositivo y no la recopilaré de ninguna manera.
