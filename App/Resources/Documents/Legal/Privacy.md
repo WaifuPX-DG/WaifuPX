@@ -18,3 +18,7 @@ La aplicación utiliza servicios de terceros que pueden recopilar información u
 Enlace a la política de privacidad de los proveedores de servicios externos utilizados por la aplicación
 
 * [Servicios de Google Play](https://www.google.com/policies/privacy/)
+
+**Datos de registro**
+
+Quiero informarle que cada vez que usa mi Servicio, en caso de un error en la aplicación, recopilo datos e información (a través de productos de terceros) en su teléfono llamado Datos de registro. Estos Datos de registro pueden incluir información como la dirección de Protocolo de Internet ("IP") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación cuando utiliza mi Servicio, la hora y fecha de su uso del Servicio y otras estadísticas .
