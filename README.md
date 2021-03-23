@@ -5,4 +5,4 @@
 
 **Ir a** 
 
-[![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
+[![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=brightgreen&label=Descargar&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
