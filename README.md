@@ -3,6 +3,6 @@
  
 ![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/banner.jpg)
 
-**Go to** 
+**Ir a** 
 
 [![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
