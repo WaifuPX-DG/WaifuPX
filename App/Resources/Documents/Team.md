@@ -3,7 +3,7 @@
 Beta Tester
 
 * [Deivy](https://www.facebook.com/profile.php?id=100007531517033)
-Beta Tester
+> Beta Tester
 
 * [Luis Javier Duran](https://www.facebook.com/LuisJ.Kubo)
 Beta Tester
