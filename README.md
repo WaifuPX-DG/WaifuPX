@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/WaifuPX?style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
 [![Canal en Telegram](https://img.shields.io/badge/Canal_Telegram-2CA5E0.svg?style=for-the-badge&logo=Telegram)](https://t.me/WaifuPX "Contact me in Telegram")
  
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/wpx_shuzuku.png)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/wpx_shizuku.png)
 
 **Ir a** 
 
