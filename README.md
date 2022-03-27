@@ -11,4 +11,4 @@
 
 <p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
 
-WAIFUPX is an Android application free of any type of advertising, The main goal of waifupx is to provide a reliable source of high quality anime style wallpapers. We care about giving a smooth and visually beautiful experience in our interface. THANKS FOR BEING HERE!  
+WAIFUPX is an Android application free of any type of advertising, The main goal of waifupx is to provide a reliable source of high quality anime style wallpapers. In a modern and simple Material You style interface . THANKS FOR BEING HERE!  
