@@ -1,5 +1,23 @@
 [{
 	"author": "WaifuPX",
+	"collections": "Bocchi The Rock",
+	"copyright": "Bocchi The Rock",
+	"downloadable": true,
+	"name": "Bocchi",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/bocchi01.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/bocchi01_th.jpg",
+	"dimensions": "Personal use only. No commercial purposes."
+}, {
+	"author": "WaifuPX",
+	"collections": "Vocaloid",
+	"copyright": "Hatsune Miku",
+	"downloadable": true,
+	"name": "Miku GoodSmileRacing",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/miku_gsr.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/miku_gsr.jpg",
+	"dimensions": "Personal use only. No commercial purposes."
+}, {
+	"author": "WaifuPX",
 	"collections": "Kaguya-Sama:Love Is War",
 	"copyright": "Kaguya-Sama:Love Is War",
 	"downloadable": true,
