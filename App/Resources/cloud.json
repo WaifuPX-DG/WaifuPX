@@ -1,5 +1,23 @@
 [{
 	"author": "WaifuPX",
+	"collections": "Realistic JP",
+	"copyright": "WPX Art",
+	"downloadable": true,
+	"name": "Girl Original",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/girl.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/girl.jpg",
+	"dimensions": "Personal use only. No commercial purposes."
+}, {
+	"author": "WaifuPX",
+	"collections": "Chainsaw Man",
+	"copyright": "Chainsaw Man",
+	"downloadable": true,
+	"name": "Makima",
+	"url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/makima.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/dcr22/makima_th.jpg",
+	"dimensions": "Personal use only. No commercial purposes."
+}, {
+	"author": "WaifuPX",
 	"collections": "Bocchi The Rock",
 	"copyright": "Bocchi The Rock",
 	"downloadable": true,
