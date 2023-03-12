@@ -12,4 +12,4 @@
 
 <p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
 
-WAIFUPX is an Android application free of any type of advertising, The main goal of waifupx is to provide a reliable source of high quality anime style wallpapers. In a modern and simple Material You style interface . THANKS FOR BEING HERE!  
+¡Bienvenido a WAIFUPX, la mejor aplicación de wallpapers de estilo anime! Estamos aquí para ofrecerte una amplia selección de fondos de pantalla de alta calidad para que puedas personalizar tu dispositivo móvil. Nuestra aplicación es fácil de usar y cuenta con una interfaz intuitiva para que puedas encontrar el wallpaper perfecto para tus gustos. Tenemos una gran variedad de fondos de pantalla, desde los clásicos hasta los más modernos. Además, nuestros wallpapers se actualizan regularmente para que siempre tengas algo nuevo para descargar.
