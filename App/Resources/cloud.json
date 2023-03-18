@@ -1,6 +1,26 @@
 [
   {
     "author": "WaifuPX",
+    "collections": "Bocchi The Rock",
+    "copyright": "Bocchi The Rock",
+    "downloadable": true,
+    "name": "Kessoku Band",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/mrz23/kessokuband.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/mrz23/kessokuband.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WaifuPX",
+    "collections": "Bocchi The Rock",
+    "copyright": "Bocchi The Rock",
+    "downloadable": true,
+    "name": "Bocchi",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/mrz23/bocchi.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/mrz23/bocchi.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WaifuPX",
     "collections": "Realistic JP",
     "copyright": "WPX Art",
     "downloadable": true,
