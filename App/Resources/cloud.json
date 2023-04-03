@@ -1,5 +1,55 @@
 [
   {
+    "author": "WPX SM",
+    "collections": "Street Moe,Genshin Impact",
+    "copyright": "Genshin Impact",
+    "downloadable": true,
+    "name": "Hu Tao",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/hutaosm.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/hutaosm.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "Originals",
+    "collections": "Street Moe",
+    "copyright": "Originals",
+    "downloadable": true,
+    "name": "Street Girl",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/realisticjp.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/realisticjp.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "Originals",
+    "collections": "Realistic JP",
+    "copyright": "Originals",
+    "downloadable": true,
+    "name": "Girl Sunset",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/realistic.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/realistic.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "Originals",
+    "collections": "Realistic JP",
+    "copyright": "Originals",
+    "downloadable": true,
+    "name": "Girl Rock",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/sub.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/sub.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "Originals",
+    "collections": "Realistic JP",
+    "copyright": "Originals",
+    "downloadable": true,
+    "name": "Airport Girl",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/airport.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/abr23/airport.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
     "author": "WaifuPX",
     "collections": "Bocchi The Rock",
     "copyright": "Bocchi The Rock",
