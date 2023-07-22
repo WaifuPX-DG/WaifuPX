@@ -1,5 +1,45 @@
 [
   {
+    "author": "WPX",
+    "collections": "Evangelion",
+    "copyright": "Evangelion",
+    "downloadable": true,
+    "name": "Misato & Shinji",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/evangelion_wpx.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/evangelion_wpx.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistc JP",
+    "copyright": "WPX OA",
+    "downloadable": true,
+    "name": "Sunflower",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/sunflower_wpx.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/sunflower_wpx.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Oshi no Ko,Amoled",
+    "copyright": "Oshi no KO",
+    "downloadable": true,
+    "name": "Kana",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/kana_wpx.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/kana_wpx.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Spy x Family",
+    "copyright": "Spy x Family",
+    "downloadable": true,
+    "name": "Anya",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/anya_wpx.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jl23/anya_wpx.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
     "author": "WPX SM",
     "collections": "Street Moe,Genshin Impact",
     "copyright": "Genshin Impact",
