@@ -1,6 +1,86 @@
 [
   {
     "author": "WPX",
+    "collections": "Spy x Family",
+    "copyright": "Spy x Family",
+    "downloadable": true,
+    "name": "Anya",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/anya.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/anya.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Spy x Family",
+    "copyright": "Spy x Family",
+    "downloadable": true,
+    "name": "Spy x Family",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/spyxfamily.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/spyxfamily.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Spy x Family",
+    "copyright": "Spy x Family",
+    "downloadable": true,
+    "name": "Anya x Yor",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/anyayor.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/anyayor.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Station",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/station.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/station.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Samurai",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/samurai.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/samurai.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Cat Girl",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/catgirl.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/catgirl.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Gothic Girl",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/goth.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/goth.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "MoeScape",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/moescape.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Sep23/moescape.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Evangelion",
     "copyright": "Evangelion",
     "downloadable": true,
@@ -11,7 +91,7 @@
   },
   {
     "author": "WPX",
-    "collections": "Realistc JP",
+    "collections": "Realistic JP",
     "copyright": "WPX OA",
     "downloadable": true,
     "name": "Sunflower",
