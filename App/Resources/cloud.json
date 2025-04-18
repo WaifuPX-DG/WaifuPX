@@ -1,5 +1,24 @@
 [
-
+    {
+    "author": "WPX",
+    "collections": "Sousou no Frieren",
+    "copyright": "Sousou no Frieren",
+    "downloadable": true,
+    "name": "Frieren",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren1.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren1_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+    {
+    "author": "WPX",
+    "collections": "Sousou no Frieren",
+    "copyright": "Sousou no Frieren",
+    "downloadable": true,
+    "name": "Frieren",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
     {
     "author": "WPX",
     "collections": "Gamers",
@@ -9,7 +28,7 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/ellen.jpg",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/ellen_th.jpg",
     "dimensions": "Personal use only. No commercial purposes."
-  },
+    },
     {
     "author": "WPX",
     "collections": "The Idolm@ster",
