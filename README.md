@@ -20,8 +20,8 @@
 
 ℹ️ Información Técnica
 
-[![Android](https://img.shields.io/badge/Plataforma-Android-green.svg?style=flat-square)](https://www.android.com) 
-![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)
+![Platform](https://img.shields.io/badge/android-platform?style=for-the-badge&label=platform&labelColor=21262d&color=6e7681)
+![API](https://img.shields.io/badge/23%2B-level?style=for-the-badge&logo=android&logoColor=3cd382&label=API&labelColor=21262d&color=ff663b)
 <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
 
 🌟 Soporte y Comunidad
