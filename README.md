@@ -36,5 +36,3 @@
 </br>
 
 </br>
-
-¡Bienvenido a WAIFUPX, la mejor aplicación de wallpapers de estilo anime! Estamos aquí para ofrecerte una amplia selección de fondos de pantalla de alta calidad para que puedas personalizar tu dispositivo móvil. Nuestra aplicación es fácil de usar y cuenta con una interfaz intuitiva para que puedas encontrar el wallpaper perfecto para tus gustos. Tenemos una gran variedad de fondos de pantalla, desde los clásicos hasta los más modernos. Además, nuestros wallpapers se actualizan regularmente para que siempre tengas algo nuevo para descargar.
