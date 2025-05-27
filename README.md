@@ -3,14 +3,18 @@
 
 > Una aplicación de wallpapers que te ofrece una vasta colección de personajes icónicos y paisajes impresionantes del mundo del anime para personalizar tu dispositivo.
 ----
-✨ Características Destacadas
- * Interfaz Moderna con Material Design 3: Disfruta de una experiencia de usuario limpia, fluida y adaptable, construida con Material You que se ajusta a los ajustes de tu dispositivo.
+## Características Destacadas
+🎨 Interfaz Moderna con Material Design 3:
+> Disfruta de una experiencia de usuario limpia, fluida y adaptable, construida con Material You que se ajusta a los ajustes de tu dispositivo.
 
- * Guarda tus Wallpapers Favoritos: Almacena fácilmente tus imágenes preferidas directamente en tu dispositivo para acceso rápido.
+📲 Guarda tus Wallpapers Favoritos:
+   > Almacena fácilmente tus imágenes preferidas directamente en tu dispositivo para acceso rápido.
 
- * Soporte y Comunidad en Telegram: Únete a nuestra comunidad para sugerir nuevas funcionalidades, contribuir con contenido o reportar cualquier incidencia de la aplicación.
+🛠️ Soporte y Comunidad en Telegram:
+> Únete a nuestra comunidad para sugerir nuevas funcionalidades, contribuir con contenido o reportar cualquier incidencia de la aplicación.
 
- * Tema Oscuro Amigable con AMOLED: Incluye un elegante modo oscuro diseñado para ahorrar batería y lucir increíble en pantallas AMOLED.
+⚫ Tema Oscuro Amigable con AMOLED:
+> Incluye un elegante modo oscuro diseñado para ahorrar batería y lucir increíble en pantallas AMOLED.
 
 ----
 
@@ -41,6 +45,6 @@ Si te gusta WaifuPX y quieres apoyar su desarrollo, ¡puedes hacer una donación
 <img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175" alt="Donar vía PayPal">
 </a>
 
-```By Galahad WPX```
+```Thank you for using and considering our app, By Galahad WPX```
 </p>
  
