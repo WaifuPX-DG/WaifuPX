@@ -12,4 +12,24 @@
 
 <p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
 
+## Features
+
+🎨 **Modern Material Design 3 UI**  
+> Experience a clean, smooth, and responsive user interface built with Material You, adapting to your device's wallpaper and theme settings.
+</br>
+
+📲 **Save Wallpapers**  
+> Save walls in local storage
+</br>
+
+🛠️ **Support in Telegram** 
+> Suggest, contribute, or report any app content to our community. 
+</br>
+
+🌑 **AMOLED-Friendly Dark Theme**  
+> Includes a sleek dark mode designed to save battery and look great on AMOLED screens
+</br>
+
+</br>
+
 ¡Bienvenido a WAIFUPX, la mejor aplicación de wallpapers de estilo anime! Estamos aquí para ofrecerte una amplia selección de fondos de pantalla de alta calidad para que puedas personalizar tu dispositivo móvil. Nuestra aplicación es fácil de usar y cuenta con una interfaz intuitiva para que puedas encontrar el wallpaper perfecto para tus gustos. Tenemos una gran variedad de fondos de pantalla, desde los clásicos hasta los más modernos. Además, nuestros wallpapers se actualizan regularmente para que siempre tengas algo nuevo para descargar.
