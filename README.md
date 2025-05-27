@@ -1,11 +1,11 @@
 ## WaifuPX
 ![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/wpx_latest.png)
 
-> Experimente una interfaz de usuario limpia, fluida y responsiva creada con Material You, que se adapta a la configuración de tema y fondo de pantalla de su dispositivo.
+> Una aplicación de fondos de pantalla que te ofrece una vasta colección de personajes icónicos y paisajes impresionantes del mundo del anime para personalizar tu dispositivo.
 ----
 ## Características Destacadas
 🎨 Interfaz Moderna con Material Design 3:
-> Disfruta de una experiencia de usuario limpia, fluida y adaptable, construida con Material You que se ajusta a los ajustes de tu dispositivo.
+> Experimente una interfaz de usuario limpia, fluida y responsiva creada con Material You, que se adapta a la configuración de tema y fondo de pantalla de su dispositivo.
 
 📲 Guarda tus Wallpapers Favoritos:
    > Almacena fácilmente tus imágenes preferidas directamente en tu dispositivo para acceso rápido.
