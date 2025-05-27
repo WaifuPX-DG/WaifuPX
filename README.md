@@ -7,6 +7,10 @@
  
 ![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/wpx_latest.png)
 
+> **WaifuPX** 
+"A wallpaper app that offers a vast collection of iconic characters and stunning scenery from the world of anime to personalize your device."
+
+
 **Ir a** 
 
 [![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=%23b597f4&label=Descargar&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
