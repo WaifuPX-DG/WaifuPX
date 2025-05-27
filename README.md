@@ -29,7 +29,7 @@
 🌟 Soporte y Comunidad
 
 ![Stars](https://img.shields.io/github/stars/WaifuPX-DG/WaifuPX?style=for-the-badge&logoColor=%23FF0069&labelColor=%23FF9E0F&color=212121)
-[![Static Badge](https://img.shields.io/badge/Telegram-channel-gg?style=for-the-badge&logo=Telegram&logoColor=Ffffff&labelColor=%2326A5E4&color=212121)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
+[![Static Badge](https://img.shields.io/badge/Telegram-channel-gg?style=for-the-badge&logo=Telegram&logoColor=Ffffff&labelColor=%2326A5E4&color=212121)](https://t.me/waifupx_official)
 
 📲 Obtén WaifuPX
 
