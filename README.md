@@ -33,7 +33,7 @@
 
 📲 Obtén WaifuPX
 
-[![Release](https://img.shields.io/github/v/release/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
+[![Release](https://img.shields.io/github/v/release/WaifuPX-DG/WaifuPX?display_name=tag&style=for-the-badge&logo=github&labelColor=21262d&color=1f6feb)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
 
 [![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?style=for-the-badge&labelColor=%23512BD4&color=212121)](https://github.com/WaifuPX-DG/WaifuPX/releases)
 
