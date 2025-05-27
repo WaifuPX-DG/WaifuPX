@@ -1,7 +1,7 @@
 ## WaifuPX
 ![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/wpx_latest.png)
 
-> Una aplicación de wallpapers que te ofrece una vasta colección de personajes icónicos y paisajes impresionantes del mundo del anime para personalizar tu dispositivo.
+> Experimente una interfaz de usuario limpia, fluida y responsiva creada con Material You, que se adapta a la configuración de tema y fondo de pantalla de su dispositivo.
 ----
 ## Características Destacadas
 🎨 Interfaz Moderna con Material Design 3:
