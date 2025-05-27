@@ -3,6 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
 ![Stars](https://img.shields.io/github/stars/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)
 [![Canal en Telegram](https://img.shields.io/badge/Canal_Telegram-2CA5E0.svg?style=for-the-badge&logo=Telegram)](https://t.me/waifupx_official "Contact me in Telegram")
+<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
  
 ![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/wpx_latest.png)
 
