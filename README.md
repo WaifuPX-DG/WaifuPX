@@ -20,20 +20,22 @@
 
 ℹ️ Información Técnica
 
-![Platform](https://img.shields.io/badge/android-platform?style=for-the-badge&label=platform&labelColor=21262d&color=6e7681)
-![API](https://img.shields.io/badge/23%2B-level?style=for-the-badge&logo=android&logoColor=3cd382&label=API&labelColor=21262d&color=ff663b)
-<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
+![Platform](https://img.shields.io/badge/android-platform?style=for-the-badge&label=platform&labelColor=%23212121&color=3DDC84)
+![API](https://img.shields.io/badge/31%2B-dg?style=for-the-badge&logo=android&logoColor=%233DDC84&label=API&labelColor=%23212121&color=%233DDC84&link=t.me%2Fwaifupx_official)
+![Static Badge](https://img.shields.io/badge/3-gg?style=for-the-badge&logo=materialdesign&logoColor=Ffffff&label=Material%20Design&labelColor=%23526CFE&color=%23526CFE)
+
+
 
 🌟 Soporte y Comunidad
 
-![Stars](https://img.shields.io/github/stars/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)
-[![Canal en Telegram](https://img.shields.io/badge/Canal_Telegram-2CA5E0.svg?style=for-the-badge&logo=Telegram)](https://t.me/waifupx_official "Contact me in Telegram")
+![Stars](https://img.shields.io/github/stars/WaifuPX-DG/WaifuPX?style=for-the-badge&logoColor=%23FF0069&labelColor=%23FF9E0F&color=212121)
+![Static Badge](https://img.shields.io/badge/channel-dg?style=for-the-badge&logo=Telegram&logoColor=%23FFFFFF&label=Telegram&labelColor=%2326A5E4&color=212121&link=t.me%2Fwaifupx_official)
 
 📲 Obtén WaifuPX
 
 [![Release](https://img.shields.io/github/v/release/WaifuPX-DG/WaifuPX?color=%23b597f4&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases/latest)
 
-[![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=%23b597f4&label=Descargar&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
+[![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?style=for-the-badge&labelColor=%23512BD4&color=212121)](https://github.com/WaifuPX-DG/WaifuPX/releases)
 
  
 💖 Apoya el Proyecto:
