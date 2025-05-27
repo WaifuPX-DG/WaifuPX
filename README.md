@@ -10,13 +10,6 @@
 > **WaifuPX** 
 "A wallpaper app that offers a vast collection of iconic characters and stunning scenery from the world of anime to personalize your device."
 
-
-**Ir a** 
-
-[![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=%23b597f4&label=Descargar&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
-
-<p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
-
 ## Features
 
 🎨 **Modern Material Design 3 UI**  
@@ -36,3 +29,8 @@
 </br>
 
 </br>
+**Ir a** 
+
+[![Descargas](https://img.shields.io/github/downloads/WaifuPX-DG/WaifuPX/total?color=%23b597f4&label=Descargar&style=for-the-badge)](https://github.com/WaifuPX-DG/WaifuPX/releases)
+
+<p align="vertical"><a href="https://paypal.me/WaifuPX"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
