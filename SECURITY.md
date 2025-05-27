@@ -2,20 +2,13 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Support for Android versions 
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 12 >   | :white_check_mark: |
+| 11.x   | :white_check_mark: |
+| < 4.4.x   | :x: |
+## Details on unsupported versions 
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Bugs that occur in versions prior to Android 11 will not be addressed because it is considered an unsupported version.
