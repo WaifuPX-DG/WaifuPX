@@ -1,6 +1,26 @@
 [
     {
     "author": "WPX",
+    "collections": "Sousou no Frieren",
+    "copyright": "Sousou no Frieren",
+    "downloadable": true,
+    "name": "Übel",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jn25/ubel.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jn25/ubel_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+    {
+    "author": "WPX",
+    "collections": "Sousou no Frieren",
+    "copyright": "Sousou no Frieren",
+    "downloadable": true,
+    "name": "Frieren",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jn25/frieren.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jn25/frieren_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+    },
+    {
+    "author": "WPX",
     "collections": "Bocchi The Rock",
     "copyright": "Bocchi The Rock",
     "downloadable": true,
