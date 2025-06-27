@@ -1,5 +1,75 @@
 [
-    {
+  {
+    "author": "WPX",
+    "collections": "The Apothecary Diaries,M3 Expressive",
+    "copyright": "Kusuriya no Hitorigoto",
+    "downloadable": true,
+    "name": "Maomao",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/maomao.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/maomao_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Ninkoro,M3 Expressive",
+    "copyright": "Ninja to Koroshiya no Futarigurashi",
+    "downloadable": true,
+    "name": "Satoko Kusagakure",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/satoko.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/satoko_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Bocchi The Rock,M3 Expressive",
+    "copyright": "Bocchi The Rock",
+    "downloadable": true,
+    "name": "Kikuri Hiroi",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/kikuri.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/kikuri_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Blue Prism",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/blue.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/blue_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Realistic JP",
+    "copyright": "Originals Collection",
+    "downloadable": true,
+    "name": "Autumn",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/autumn.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/autumn_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Zenless Zone Zero,Gamers",
+    "copyright": "Zenless Zone Zero",
+    "downloadable": true,
+    "name": "Evelyn",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/evelyn.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/evelyn_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Wuthering Waves,Gamers",
+    "copyright": "Wuthering Waves",
+    "downloadable": true,
+    "name": "Cartethyia",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/cartethyia.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/cartethyia_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
     "author": "WPX",
     "collections": "Sousou no Frieren",
     "copyright": "Sousou no Frieren",
@@ -8,8 +78,8 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/ubel.png",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/ubel_th.jpg",
     "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
+  },
+  {
     "author": "WPX",
     "collections": "Sousou no Frieren",
     "copyright": "Sousou no Frieren",
@@ -18,28 +88,18 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jn25/frieren.png",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Jn25/frieren_th.png",
     "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
+  },
+  {
     "author": "WPX",
-    "collections": "Bocchi The Rock",
-    "copyright": "Bocchi The Rock",
-    "downloadable": true,
-    "name": "Bocchi",
-    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/May25/bocchi.png",
-    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/May25/bocchi_th.png",
-    "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
-    "author": "WPX",
-    "collections": "Evangelion",
+    "collections": "Evangelion,Amoled",
     "copyright": "Evangelion",
     "downloadable": true,
     "name": "Asuka",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/May25/asuka.png",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/May25/asuka_th.png",
     "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
+  },
+  {
     "author": "WPX",
     "collections": "Sousou no Frieren",
     "copyright": "Sousou no Frieren",
@@ -48,8 +108,8 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren1.png",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren1_th.jpg",
     "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
+  },
+  {
     "author": "WPX",
     "collections": "Sousou no Frieren",
     "copyright": "Sousou no Frieren",
@@ -58,18 +118,18 @@
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren.png",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/frieren_th.jpg",
     "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
+  },
+  {
     "author": "WPX",
-    "collections": "Gamers",
+    "collections": "Zenless Zone Zero,Gamers",
     "copyright": "Zenless Zone Zero",
     "downloadable": true,
     "name": "Ellen Joe",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/ellen.jpg",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/content/Apr25/ellen_th.jpg",
     "dimensions": "Personal use only. No commercial purposes."
-    },
-    {
+  },
+  {
     "author": "WPX",
     "collections": "The Idolm@ster",
     "copyright": "The Idolmaster: Cinderella Girls",
