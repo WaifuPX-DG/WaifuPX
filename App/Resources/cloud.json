@@ -1,6 +1,26 @@
 [
   {
     "author": "WPX",
+    "collections": "My Hero Academia,Men",
+    "copyright": "My Hero Academia",
+    "downloadable": true,
+    "name": "Deku",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/deku.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/deku_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Kimetsu No Yaiba,Amoled,Men",
+    "copyright": "Kimetsu No Yaiba",
+    "downloadable": true,
+    "name": "Inosuke Hashibira",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/inosuke.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/Jn25/inosuke_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "The Apothecary Diaries,M3 Expressive",
     "copyright": "Kusuriya no Hitorigoto",
     "downloadable": true,
@@ -3222,9 +3242,10 @@
   },
   {
     "author": "WaifuPX",
-    "collections": "Realistic JP",
+    "copyright": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "collections": "Alya Sometimes Hides Her Feelings in Russian",
     "downloadable": true,
-    "name": "Shine",
+    "name": "Alya",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/wpxrjp_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/wpxrjp.jpg"
   },
