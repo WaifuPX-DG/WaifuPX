@@ -3245,7 +3245,7 @@
   {
     "author": "WaifuPX",
     "collections": "Realistic JP",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Moe Demon",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/wpxmoewall_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/wpxmoewall.jpg"
@@ -3263,7 +3263,7 @@
     "author": "WaifuPX",
     "collections": "Oregairu",
     "copyright": "Yahari Ore no Seishun Love Come wa Machigatteiru",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Yukino",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/wpx_yukino_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/wpx_yukino.jpg"
@@ -3272,7 +3272,7 @@
     "author": "Funky Garage",
     "collections": "Darling In The Franxx",
     "copyright": "Darling In The Franxx",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Zero Two",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/mz_02_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/mz_02.jpg"
@@ -3289,7 +3289,7 @@
     "author": "WaifuPX",
     "collections": "Touhou Project",
     "copyright": "Touhou Project",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Aya Shameimaru",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/mz_aya_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/mz_aya.jpg"
@@ -3298,7 +3298,7 @@
     "author": "WaifuPX",
     "collections": "Genshin Impact",
     "dimensions": "Nuevo personaje 5 estrellas de Genshin Impact",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Hu Tao",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/hutao_th.jpg",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/hutao_wpx.jpg"
@@ -3410,7 +3410,7 @@
   {
     "author": "WaifuPX",
     "collections": "Realistic JP",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Retro",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/nwall3_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/nwall3.jpg"
@@ -3426,7 +3426,7 @@
   {
     "author": "WaifuPX",
     "collections": "Realistic JP",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Ghotic",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/nwall5_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/nwall5.jpg"
@@ -3615,7 +3615,7 @@
     "author": "WaifuPX",
     "collections": "Rent A Girlfriend",
     "copyright": "Kanojo Okarishimasu",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Ruka",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/ruka_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/ruka.jpg"
@@ -3624,7 +3624,7 @@
     "author": "WaifuPX",
     "collections": "Yuru Camp ∆",
     "copyright": "Yuru Camp ∆",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Rin Shima",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/rinyc.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/rinyc.jpg"
@@ -4027,7 +4027,7 @@
   {
     "author": "@ca_noske",
     "collections": "Realistic JP",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Art Winner",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/canoske_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/canoske.jpg"
@@ -4092,7 +4092,7 @@
     "author": "WaifuPX",
     "collections": "Love Live",
     "copyright": "Love Live Sunshine",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Vibrant Color",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/y1_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/y1.jpg"
@@ -4122,7 +4122,7 @@
     "author": "WaifuPX",
     "collections": "Kaguya-Sama:Love Is War",
     "copyright": "Kaguya-Sama:Love Is War",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Chika",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/chika_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/chika.jpg"
@@ -4139,7 +4139,7 @@
     "author": "WaifuPX",
     "collections": "Overlord",
     "copyright": "Overlord",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Albedo",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/albedo_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/albedo.jpg"
@@ -4164,7 +4164,7 @@
     "author": "WaifuPX",
     "collections": "Eromanga Sensei",
     "copyright": "Eromanga Sensei",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Sagiri",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/sagiri_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/sagiri.jpg"
@@ -4228,7 +4228,7 @@
     "author": "WaifuPX",
     "collections": "Love Live",
     "copyright": "Love Live: Sunshine",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Leah Kazuno",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/leah_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/leah.jpg"
@@ -4237,7 +4237,7 @@
     "author": "WaifuPX",
     "collections": "Kobayashi-San",
     "copyright": "Kobayashi-San Chi no Maid Dragon",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Kanna",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/kanna_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/kanna.jpg"
@@ -4270,7 +4270,7 @@
     "author": "WaifuPX",
     "collections": "Love Live",
     "copyright": "Love Live!",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Maki Nishikino",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/maki_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/maki.jpg"
@@ -4287,7 +4287,7 @@
     "author": "WaifuPX",
     "collections": "Konosuba,NSFW",
     "copyright": "Konosuba",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Aqua",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/aquansfw_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/aquansfw.jpg"
@@ -4312,7 +4312,7 @@
     "author": "WaifuPX",
     "collections": "Konosuba",
     "copyright": "Konosuba",
-    "downloadable": false,
+    "downloadable": true,
     "name": "Yunyun",
     "thumbnail": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/yunyun_th.jpg",
     "url": "https://raw.githubusercontent.com/d-gar/WaifuPapers/main/App/Assets/wpx/yunyun.jpg"
