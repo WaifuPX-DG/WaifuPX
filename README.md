@@ -1,5 +1,5 @@
 ## WaifuPX
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Documents/wpx_latest.png)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/content/2026.png)
 
 > Una aplicación de fondos de pantalla que te ofrece una vasta colección de personajes icónicos y paisajes impresionantes del mundo del anime para personalizar tu dispositivo.
 ----
